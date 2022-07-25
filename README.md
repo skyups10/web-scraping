@@ -4,7 +4,8 @@
 ### 중고 거래 플랫폼에서 나타나는 개인정보 유출의 현황 및 제안
 Status of personal information exposure on used trading platforms
 
-해당 논문에서 코드에 대한 자세한 설명을 확인할 수 있습니다.(* 추후 게재 예정)
+해당 링크에서논문집을 다운로드 받은 후 논문에서 자세한 설명을 확인할 수 있습니다.
+http://kips.or.kr/bbs/confn/article/2250
 
 ---------
 #### 사용한 언어 및 라이브러리
