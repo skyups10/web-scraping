@@ -4,8 +4,8 @@
 ### 중고 거래 플랫폼에서 나타나는 개인정보 유출의 현황 및 제안
 Status of personal information exposure on used trading platforms
 
-해당 링크에서논문집을 다운로드 받은 후 논문에서 자세한 설명을 확인할 수 있습니다.
-http://www.koreascience.or.kr/search.page?keywords=%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%97%90%EC%84%9C+%EB%82%98%ED%83%80%EB%82%98%EB%8A%94+%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4+%EC%9C%A0%EC%B6%9C+%ED%98%84%ED%99%A9+%EB%B0%8F+%EC%A0%9C%EC%95%88
+해당 링크에서 자세한 설명을 확인할 수 있습니다.
+http://www.koreascience.or.kr/article/CFKO202220859226203.pdf
 
 ---------
 #### 사용한 언어 및 라이브러리
