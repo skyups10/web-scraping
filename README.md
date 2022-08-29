@@ -1,8 +1,6 @@
-# Web_Scraping
+## 중고 거래 플랫폼에서 나타나는 개인정보 유출의 현황 및 제안
 
 #### 한국정보처리학회 ASK 2022(춘계학술발표대회)
-
-### 중고 거래 플랫폼에서 나타나는 개인정보 유출의 현황 및 제안
 Status of personal information exposure on used trading platforms
 <br><br>
 
